@@ -1,0 +1,9 @@
+ultralytics
+roboflow
+gradio
+opencv-python
+matplotlib
+numpy
+pandas
+seaborn
+onnx
